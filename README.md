@@ -1,6 +1,8 @@
 # Issues
 
-This repository is used for tracking bugs and issues for the current **SAES:RPG MTA server**.  
+This repository is used for tracking bugs and issues for the current **SAES:RPG MTA server** only!
+
+If you wish to request new features, improvements or changes, please do it here: https://github.com/saesrpg/features-changes/
 
 If you encounter a bug or any problem while playing on the server, please report it by creating a new issue using the **[Issues](https://github.com/saesrpg/issues/issues)** tab in this repository.  
 
